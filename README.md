@@ -1,8 +1,7 @@
 # McBerpad
 Inspiration du projet 
 
-# Titre : 
-Développer et vendre une API Python - tutoriel du début à la fin
+# Titre : Développer et vendre une API Python - tutoriel du début à la fin
 
 # Auteur : 
 Daniel Deutsch
